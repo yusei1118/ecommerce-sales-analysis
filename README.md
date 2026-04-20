@@ -2,6 +2,10 @@
 
 ---
 
+## 📊 Sales Trend
+
+![Sales Trend](images/sales_trend.png)
+
 ## 🧠 Overview
 
 This project analyzes customer sales performance using SQL (BigQuery) and Tableau dashboards.
