@@ -4,7 +4,7 @@
 
 ## 📊 Sales Trend
 
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](sales_trend.png)
 
 ## 🧠 Overview
 
