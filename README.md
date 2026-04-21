@@ -1,5 +1,8 @@
 # 📊 Customer Sales Trend Analysis (SQL + Tableau)
 
+## Tableau Dashboard
+[Sales Trend](https://public.tableau.com/app/profile/yusei.hosoya/viz/CustomerPurchaseTrends_17767917261710/Dashboard1)
+
 ---
 
 ## 📊 Sales Trend
